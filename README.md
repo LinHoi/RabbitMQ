@@ -1,5 +1,5 @@
 # RabbitMQ
-a simple rabbitmq client wirten by go
+a simple rabbitmq wrapper wirten by go
 
 ## Support Mode
 1. Simple Mode
